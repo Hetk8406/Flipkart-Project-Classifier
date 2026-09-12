@@ -22,6 +22,41 @@ This project solves this by training a Convolutional Neural Network (CNN) to aut
 
 ---
 
+## 📸 Application & Dashboard Screenshots
+
+Below are screenshots of the interactive web dashboard (`dashboard.py`) illustrating the project overview, EDA, training curves, confusion matrix evaluation, and live image prediction demo:
+
+### **1. Overview & Dataset Structure**
+| Overview Tab | Dataset Structure |
+| :---: | :---: |
+| ![Dashboard Overview](Flipkart/Flipkart-1.png) | ![Dataset Structure](Flipkart/Flipkart-2.png) |
+
+### **2. Exploratory Data Analysis (EDA)**
+| Class Distribution & Aspect Ratios | Category Samples & Pixel Brightness |
+| :---: | :---: |
+| ![EDA Visualizations 1](Flipkart/Flipkart-3.png) | ![EDA Visualizations 2](Flipkart/Flipkart-4.png) |
+
+### **3. Model Training & Performance**
+| Training & Loss Curves | Training Configuration & Weights |
+| :---: | :---: |
+| ![Model Training 1](Flipkart/Flipkart-5.png) | ![Model Training 2](Flipkart/Flipkart-6.png) |
+
+### **4. Model Evaluation & Confusion Matrix**
+| Performance Comparison & Reports | Confusion Matrices & Galleries |
+| :---: | :---: |
+| ![Evaluation Reports](Flipkart/Flipkart-7.png) | ![Confusion Matrix & Gallery](Flipkart/Flipkart-8.png) |
+
+### **5. Live Prediction Demo & Business Insights**
+| Live Upload & Inference Demo | Interactive Results & Probabilities |
+| :---: | :---: |
+| ![Prediction Demo Upload](Flipkart/Flipkart-9.png) | ![Prediction Results](Flipkart/Flipkart-10.png) |
+
+| Business Takeaways & Decision Engine | Capstone Specifications | Project Architecture |
+| :---: | :---: | :---: |
+| ![Business Insights](Flipkart/Flipkart-11.png) | ![Project Specs](Flipkart/Flipkart-12.png) | ![Additional View](Flipkart/Flipkart-13.png) |
+
+---
+
 ## 📊 Dataset & Class Mapping
 
 The dataset is based on Flipkart product listings and contains **62,197 records**. 
